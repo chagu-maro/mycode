@@ -1,1 +1,2 @@
-ｑ
+SELECT * FROM [AdventureWorksLT2019].[SalesLT].[Address]
+GO
